@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	min-height: 100vh;
+	background: linear-gradient(36deg, #e8e8e8, #dfdfdf);
+	color: #2e2e2e;
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 1.5;
+	@media screen and (max-width: 820px) {
+		font-size: 16px;
+	}
+}
+
+h3 {
+	text-align: center;
+}
+
+.overflow-hidden,
+.scroll-blocked {
+	overflow: hidden;
+}

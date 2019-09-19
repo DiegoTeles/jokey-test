@@ -1,0 +1,15 @@
+$this: ".input-container";
+
+#{$this} {
+	width: 30px;
+	margin: 30px auto;
+	display: grid;
+	justify-content: center;
+
+	&_notify{
+		color: red;
+		font-size: 9px;
+		font-weight: 400;
+		word-wrap: break-word;
+	}
+}
