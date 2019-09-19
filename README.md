@@ -27,7 +27,7 @@ Create auth interface and automate tests ;/
 ![Bye](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0fIB6QRIDTvzDMjB6yAM0Y5oVh3DVxB2w8Ahh2Kk4dJdjaTskw)
 
 
-# CHALLENGER:
+# CHALLENGE:
 
 ## Front End Evaluation
 
