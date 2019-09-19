@@ -22,7 +22,7 @@ npm start
 
 Unfortunatelly I was unable to create any test, due to the deadline 😔
 
-Create auth interface and automate tests ;/
+Create automate tests ;/
 
 ![Bye](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0fIB6QRIDTvzDMjB6yAM0Y5oVh3DVxB2w8Ahh2Kk4dJdjaTskw)
 
